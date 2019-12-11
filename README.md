@@ -1,1 +1,3 @@
-# MatPlotLib-Homework
+# Pymaceuticals 
+Python
+MatPlotLib
